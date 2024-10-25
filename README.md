@@ -1,7 +1,5 @@
 # W1-Mobile
 
-Member
-1.Kantaphong
-2.Sittichok
-
-Have a new day
+Mamber
+1.kan
+2.earth
